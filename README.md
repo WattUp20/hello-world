@@ -1,3 +1,2 @@
 # hello-world
-1st_reloaitrotyy 
-# just testing 
+1st_repo
